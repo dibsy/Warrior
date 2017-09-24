@@ -11,5 +11,5 @@ Integration with OWASP Dependency Check to perform vulnerability analysis of .JA
 2. Extract the contents and put the warrior.py file inside the dependency-check/bin/ location.
 ![Save](https://github.com/dibsy/Warrior/blob/master/save.PNG)
 3. usage : python warrior.py "ProjectName" "location_of_war_file"
-4. ![Report Location](https://github.com/dibsy/Warrior/blob/master/save.PNG)
-5. ![Report ](https://github.com/dibsy/Warrior/blob/master/save.PNG)
+4. ![Report Location](https://github.com/dibsy/Warrior/blob/master/test_report.PNG)
+5. ![Report ](https://github.com/dibsy/Warrior/blob/master/report.PNG)
