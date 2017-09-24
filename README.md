@@ -7,9 +7,14 @@ Integration with OWASP Dependency Check to perform vulnerability analysis of .JA
 ![Warrior 1.0](https://github.com/dibsy/Warrior/blob/master/warrior.PNG)
 
 ## Steps to setup
-1. Grap a copy of the latest OWASP Dependency Check from here (https://jeremylong.github.io/DependencyCheck/dependency-check-cli/index.html)
-2. Extract the contents and put the warrior.py file inside the dependency-check/bin/ location.
+Grap a copy of the latest OWASP Dependency Check from here (https://jeremylong.github.io/DependencyCheck/dependency-check-cli/index.html)
+
+Extract the contents and put the warrior.py file inside the dependency-check/bin/ location.
 ![Save](https://github.com/dibsy/Warrior/blob/master/save.PNG)
-3. usage : python warrior.py "ProjectName" "location_of_war_file"
-4. ![Report Location](https://github.com/dibsy/Warrior/blob/master/test_report.PNG)
-5. ![Report ](https://github.com/dibsy/Warrior/blob/master/report.PNG)
+
+usage : python warrior.py "ProjectName" "location_of_war_file"
+C:\dependency-check-2.1.0-release\dependency-check\bin>python warior.py Test_Project C:\pwm.war
+
+![Report Location](https://github.com/dibsy/Warrior/blob/master/test_report.PNG)
+
+![Report ](https://github.com/dibsy/Warrior/blob/master/report.PNG)
