@@ -13,6 +13,7 @@ Extract the contents and put the warrior.py file inside the dependency-check/bin
 ![Save](https://github.com/dibsy/Warrior/blob/master/save.PNG)
 
 usage : python warrior.py "ProjectName" "location_of_war_file"
+
 C:\dependency-check-2.1.0-release\dependency-check\bin>python warior.py Test_Project C:\pwm.war
 
 ![Report Location](https://github.com/dibsy/Warrior/blob/master/test_report.PNG)
